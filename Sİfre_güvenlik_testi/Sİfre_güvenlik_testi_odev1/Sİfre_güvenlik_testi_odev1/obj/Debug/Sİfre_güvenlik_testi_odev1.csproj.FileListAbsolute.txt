@@ -1,0 +1,8 @@
+C:\Users\Ozgur\source\repos\Sİfre_güvenlik_testi_odev1\Sİfre_güvenlik_testi_odev1\bin\Debug\Sİfre_güvenlik_testi_odev1.exe.config
+C:\Users\Ozgur\source\repos\Sİfre_güvenlik_testi_odev1\Sİfre_güvenlik_testi_odev1\bin\Debug\Sİfre_güvenlik_testi_odev1.exe
+C:\Users\Ozgur\source\repos\Sİfre_güvenlik_testi_odev1\Sİfre_güvenlik_testi_odev1\bin\Debug\Sİfre_güvenlik_testi_odev1.pdb
+C:\Users\Ozgur\source\repos\Sİfre_güvenlik_testi_odev1\Sİfre_güvenlik_testi_odev1\obj\Debug\Sİfre_güvenlik_testi_odev1.csproj.AssemblyReference.cache
+C:\Users\Ozgur\source\repos\Sİfre_güvenlik_testi_odev1\Sİfre_güvenlik_testi_odev1\obj\Debug\Sİfre_güvenlik_testi_odev1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ozgur\source\repos\Sİfre_güvenlik_testi_odev1\Sİfre_güvenlik_testi_odev1\obj\Debug\Sİfre_güvenlik_testi_odev1.csproj.CoreCompileInputs.cache
+C:\Users\Ozgur\source\repos\Sİfre_güvenlik_testi_odev1\Sİfre_güvenlik_testi_odev1\obj\Debug\Sİfre_güvenlik_testi_odev1.exe
+C:\Users\Ozgur\source\repos\Sİfre_güvenlik_testi_odev1\Sİfre_güvenlik_testi_odev1\obj\Debug\Sİfre_güvenlik_testi_odev1.pdb
